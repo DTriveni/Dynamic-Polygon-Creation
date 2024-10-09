@@ -4,7 +4,7 @@ library(shiny)
 ui <- shinyUI(fluidPage(
   
   # Application title
-  titlePanel("Ploygon"),
+  titlePanel("Dynamic Ploygon Creation"),
   
   # Sidebar with a slider input for number of bins 
   sidebarLayout(
